@@ -89,7 +89,7 @@
   <!--New Login-->
   <string name="login_email_field_text">Ваша электронная почта здесь</string>
   <string name="login_send_magic_link_body">Мы отправим вам волшебную ссылку.</string>
-  <string name="login_send_magic_link_button">Отправить магическую ссылку</string>
+  <string name="login_send_magic_link_button">Отправить волшебную ссылку</string>
   <string name="login_safe_body_1">Безопасный вход</string>
   <string name="login_safe_body_2">На нашей стороне не сохранены пароли</string>
   <string name="login_check_email_title">Проверьте вашу эл.почту</string>
