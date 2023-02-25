@@ -24,8 +24,8 @@
   <string name="public_key">публичный</string>
   <string name="private_key">закрытый</string>
 
-  <string name="store_username">Store username</string>
-  <string name="store_password">Store password</string>
+  <string name="store_username">Имя магазина</string>
+  <string name="store_password">Пароль магазина</string>
 
   <string name="create_repo">"Создать"</string>
 
