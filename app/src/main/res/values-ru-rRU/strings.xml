@@ -33,40 +33,40 @@
 
   <string name="sort_spinner_values_1">По дате</string>
   <string name="sort_spinner_values_2">По имени</string>
-  <string name="select_apps_to_upload_to_your_store">Select apps to upload to your store</string>
-  <string name="submit_apps">Submit Apps</string>
-  <string name="signing_in">Signing in...</string>
-  <string name="jogos">Games</string>
+  <string name="select_apps_to_upload_to_your_store">Выберите приложения для загрузки в свой магазин</string>
+  <string name="submit_apps">Отправить приложения</string>
+  <string name="signing_in">Вход в...</string>
+  <string name="jogos">Игры</string>
   <string name="loading_content">Loading content...</string>
-  <string name="submit">Submit</string>
-  <string name="age_rating">Age Rating</string>
-  <string name="app_category">App Category</string>
+  <string name="submit">ОТПРАВИТЬ</string>
+  <string name="age_rating">Возрастной рейтинг</string>
+  <string name="app_category">Категория</string>
   <string name="app_description">App Description</string>
-  <string name="app_name_form">App name</string>
+  <string name="app_name_form">Имя приложения</string>
   <string name="optional">(необязательно)</string>
   <string name="phone_number">Номер телефона</string>
   <string name="e_mail">Эл. почта</string>
   <string name="website">Сайт</string>
-  <string name="signout">Sign Out</string>
-  <string name="error_occurred">Sorry, an error occurred</string>
-  <string name="missing_fields">Missing mandatory fields</string>
-  <string name="no_store_error">The account doesn\'t have a store associated, please create one.</string>
+  <string name="signout">Выйти</string>
+  <string name="error_occurred">Извините, произошла ошибка</string>
+  <string name="missing_fields">Отсутствуют обязательные поля</string>
+  <string name="no_store_error">У учетной записи нет магазина, пожалуйста, создайте его.</string>
   <string name="yes">Да</string>
   <string name="no">Нет</string>
-  <string name="fill_empty_fields">Please fill empty fields!</string>
+  <string name="fill_empty_fields">Пожалуйста, заполните пустые поля!</string>
   <string name="logging_as">Войти как </string>
   <string name="logging_in">Войти в </string>
-  <string name="no_connectivity_error">Sorry, no internet connection available</string>
+  <string name="no_connectivity_error">Извините, нет подключения к интернету</string>
 
   <!-- Notifications -->
   <string name="application_notification_short_app_success_upload">Приложение успешно загружено</string>
-  <string name="application_notification_short_get_retries_exceeded">We\'re processing your app! It\'ll be in your store soon.</string>
-  <string name="application_notification_short_app_duplicate_upload">This app is already in your store. (APK-103)</string>
-  <string name="application_notification_short_app_intellectual_property">You don\'t hold the distribution rights for this app! Contact us for more info. (APK-101)</string>
-  <string name="application_notification_short_app_intellectual_property_certified">You don\'t hold the distribution rights for this app! Contact us for more info. (APK-112)</string>
-  <string name="application_notification_short_app_infection">An infection was detected. Please contact us if you have the distribution rights. (APK-102)</string>
-  <string name="application_notification_short_app_publisher_only">The publisher is the only one allowed to update this app. (APK-104)</string>
-  <string name="application_notification_short_app_invalid_signature">The app signature is not valid. Please contact us if you have the distribution rights. (APK-106)</string>
+  <string name="application_notification_short_get_retries_exceeded">Мы обрабатываем ваше приложение! Оно скоро будет в вашем магазине.</string>
+  <string name="application_notification_short_app_duplicate_upload">Это приложение уже в вашем магазине. (APK-103)</string>
+  <string name="application_notification_short_app_intellectual_property">Вы не имеете права на распространение для этого приложения! Свяжитесь с нами для получения дополнительной информации. (APK-101)</string>
+  <string name="application_notification_short_app_intellectual_property_certified">Вы не имеете права на распространение для этого приложения! Свяжитесь с нами для получения дополнительной информации. (APK-112)</string>
+  <string name="application_notification_short_app_infection">Вирус был обнаружен. Пожалуйста, свяжитесь с нами, если у вас есть права на распространение. (APK-102)</string>
+  <string name="application_notification_short_app_publisher_only">Издатель - единственный, кому разрешено обновлять это приложение. (APK-104)</string>
+  <string name="application_notification_short_app_invalid_signature">Подпись приложения недействительна. Пожалуйста, свяжитесь с нами, если у вас есть права на распространение. (APK-106)</string>
   <string name="application_notification_message_app_no_metadata_upload">Нам нужно больше информации. Пожалуйста нажмите сюда.</string>
   <string name="application_notification_short_app_upload_failed_retry">Загрузка не удалась. Пожалуйста, попробуйте еще раз.</string>
   <string name="application_notification_short_app_upload_failed">Ошибка загрузки.</string>
@@ -78,28 +78,28 @@
   <string name="logout_confirmation_message">Вы собираетесь выйти из Aptoide Uploader, вы уверены?</string>
   <string name="app_selected">выбрано</string>
   <string name="apps_selected">выбраны</string>
-  <string name="duplicate_store_error">The store name you\'re using already exists. Be creative, dude!</string>
+  <string name="duplicate_store_error">Название магазина, которое вы хотите, уже существует. Будь креативным, чувак!</string>
   (edited)
-  <string name="connection_error_body">Oops, it seems you\'ve got connection issues. Try again later!</string>
+  <string name="connection_error_body">Упс, кажется, у вас проблемы со связью. Попробуйте позже!</string>
 
   <!--Settings-->
   <string name="settings_dark_them_title">Тёмная тема</string>
-  <string name="settings_dark_them_body">It helps to relieve eye strain when using your device in the dark.</string>
+  <string name="settings_dark_them_body">Это помогает снять напряжение с глаз при использовании устройства в темноте.</string>
 
   <!--New Login-->
-  <string name="login_email_field_text">Your email here</string>
-  <string name="login_send_magic_link_body">We\'ll send you a magic link.</string>
+  <string name="login_email_field_text">Ваша электронная почта здесь</string>
+  <string name="login_send_magic_link_body">Мы отправим вам волшебную ссылку.</string>
   <string name="login_send_magic_link_button">Отправить магическую ссылку</string>
-  <string name="login_safe_body_1">Secure login</string>
-  <string name="login_safe_body_2">No passwords saved on our side</string>
+  <string name="login_safe_body_1">Безопасный вход</string>
+  <string name="login_safe_body_2">На нашей стороне не сохранены пароли</string>
   <string name="login_check_email_title">Проверьте вашу эл.почту</string>
-  <string name="login_check_email_body">We\'ve sent a magic link to %s to log in.</string>
+  <string name="login_check_email_body">Мы отправили волшебную ссылку на %s для входа в систему.</string>
   <string name="login_check_email_button">Открыть эл.почту</string>
-  <string name="login_error_magic_link_expired">Your magic link expired! Send a new one to your email.</string>
+  <string name="login_error_magic_link_expired">Ваша волшебная ссылка истекла! Отправьте новую на свой адрес электронной почты.</string>
   <string name="login_error_invalid_email">Эта почта указана неверно!</string>
-  <string name="login_disclaimer_unavailable_title">We\'re working on it!</string>
-  <string name="login_disclaimer_blog_button">Check our blog</string>
-  <string name="login_disclaimer_unavailable_body_1">Our users\' security is our top one priority, so login to Aptoide Uploader is temporarily unavailable while we work to make some changes on it. We\'ll be quick!</string>
+  <string name="login_disclaimer_unavailable_title">Мы работаем над этим!</string>
+  <string name="login_disclaimer_blog_button">Посетите наш блог</string>
+  <string name="login_disclaimer_unavailable_body_1">Безопасность наших пользователей является нашим главным приоритетом, поэтому вход в Aptoide Uploader временно недоступен, пока мы работаем над внесением в него некоторых изменений. Мы будем быстры!</string>
   <string name="login_disclaimer_unavailable_body_2">Мы прилагаем все усилия, чтобы это скоро вернулось, так что следите за обновлениями!</string>
   <string name="connect_with_facebook">Войти через Facebook</string>
   <string name="connect_with_google">Войти через Google</string>
