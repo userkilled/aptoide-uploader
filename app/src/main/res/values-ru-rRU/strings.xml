@@ -55,7 +55,7 @@
   <string name="no">Нет</string>
   <string name="fill_empty_fields">Пожалуйста, заполните пустые поля!</string>
   <string name="logging_as">Войти как </string>
-  <string name="logging_in">Войти в </string>
+  <string name="logging_in">Вход в аккаунт</string>
   <string name="no_connectivity_error">Извините, нет подключения к интернету</string>
 
   <!-- Notifications -->
