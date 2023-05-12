@@ -27,7 +27,7 @@
   <string name="store_username">Имя магазина</string>
   <string name="store_password">Пароль магазина</string>
 
-  <string name="create_repo">"Создать"</string>
+  <string name="create_repo">Создать</string>
 
   <string name="language">Язык</string>
 
