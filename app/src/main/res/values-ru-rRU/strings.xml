@@ -37,11 +37,11 @@
   <string name="submit_apps">Отправить приложения</string>
   <string name="signing_in">Вход в...</string>
   <string name="jogos">Игры</string>
-  <string name="loading_content">Loading content...</string>
+  <string name="loading_content">Загрузка контента...</string>
   <string name="submit">ОТПРАВИТЬ</string>
   <string name="age_rating">Возрастной рейтинг</string>
   <string name="app_category">Категория</string>
-  <string name="app_description">App Description</string>
+  <string name="app_description">Описание приложения</string>
   <string name="app_name_form">Имя приложения</string>
   <string name="optional">(необязательно)</string>
   <string name="phone_number">Номер телефона</string>
